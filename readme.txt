@@ -34,7 +34,7 @@ AlternateExeName=Game.exe
 ; Folder where game_settings_afm.exe resides (Default: DynPlugins)
 AfmFolder=DynPlugins
 
-3. Add to RPG_RT.ini:
+3. Add to Settings.ini:
 
 [Settings]
 ; if AnotherFullscreenMode=1 & StarWindowed=1, it must boot into fullscreen mode briefly
