@@ -33,6 +33,9 @@ SetFPS=
 AlternateExeName=Game.exe
 ; Folder where game_settings_afm.exe resides (Default: DynPlugins)
 AfmFolder=DynPlugins
+; Game ini filename 
+; Default: Settings.ini
+GameIniFilename=Settings.ini
 
 3. Add to Settings.ini:
 
